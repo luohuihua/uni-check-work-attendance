@@ -1,0 +1,3 @@
+// 本文件中的json内容将在云函数【运行】时作为参数传给云函数。
+// 配置教程参考：https://uniapp.dcloud.net.cn/uniCloud/quickstart?id=runparam
+{"morning":{"mode":"正常记录","latitude":22.93772,"longitude":113.38424,"address":"广东省广州市番禺区番禺大道北广州市番禺区人民政府(番禺大道北西)","time":"2020-10-21 22:27:33","remarks":""},"afternoon":{"mode":"正常记录","latitude":22.93772,"longitude":113.38424,"address":"广东省广州市番禺区番禺大道北广州市番禺区人民政府(番禺大道北西)","time":"2020-10-21 22:27:38","remarks":""},"openid":"okBYf5JcmimFe49_7sbaU9W6quVw","nickName":"罗辉华","avatarUrl":"https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIZGcGNH4wchib3LyKxWcBbOxxDBproRNyibia3qF7eDOYhPxCjZ3ibqCIx77t90lVfTrdPW2evT8twnQ/132","date":"2020-10-21T14:27:34.070Z","_id":"5f904556e479b90001e7b1aa"}
