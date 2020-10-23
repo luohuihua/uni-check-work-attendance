@@ -15,11 +15,13 @@
 ## cloudfunctions-aliyun/send-temp-message/index.js   需要修改appid,secret，用于微信消息模板发送的唯一标记
 
 ## 功能截图
-![image](static/page1.jpg)
-![image](static/page2.jpg)
-![image](static/page3.jpg)
-![image](static/page4.jpg)
+![image](static/page1.jpeg)
+![image](static/page2.jpeg)
+![image](static/page3.jpeg)
+![image](static/page4.jpeg)
 
 ## 小程序码
 ![image](static/小程序演示码.jpg)
 
+## 赞赏码
+![image](static/赞赏码.jpeg)
